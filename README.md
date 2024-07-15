@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+A to-do list app is a simple, user-friendly application designed to help users manage and organize their tasks efficiently. Users can add, edit, and delete tasks, mark them as completed, and keep track of their progress. This project is an excellent choice for beginners in coding, providing hands-on experience with essential programming concepts, user interface design, and app functionality.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
